@@ -15,3 +15,6 @@ Receiving objects: 100% (3/3), done.
 GracoSoft@DESKTOP-QRGRU1I MINGW64 ~/Desktop
 $ cd libro-git/
 
+-----------------------------------------------------------------------------------
+
+hize la mayoria de cosas directamente con las opciones de github, por que lo encontre mas facil, y como al hacer las cosas con los botones es lo mismo pero mas facil lo hize asi
